@@ -1,0 +1,12 @@
+mynorjrv@acer:~$ pip install numpy scipy
+Collecting numpy
+  Downloading numpy-1.20.3-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl (15.4 MB)
+     |████████████████████████████████| 15.4 MB 908 kB/s 
+Collecting scipy
+  Downloading scipy-1.6.3-cp38-cp38-manylinux1_x86_64.whl (27.2 MB)
+     |████████████████████████████████| 27.2 MB 1.1 MB/s 
+Installing collected packages: numpy, scipy
+  WARNING: The scripts f2py, f2py3 and f2py3.8 are installed in '/home/mynorjrv/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed numpy-1.20.3 scipy-1.6.3
+
